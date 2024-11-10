@@ -9,6 +9,6 @@ Admin Panel: Administrators can manage movie listings, showtimes, and ticket ava
 Payment Integration: Secure payment gateway integration for easy ticket payment (simulated for demo purposes).
 
 Technologies Used:
-Frontend: HTML, CSS, JavaScript (or framework like React/Vue)
-Backend: Node.js, Express.js
+Frontend: HTML, CSS, JavaScript 
+Backend: Node.js
 Database: MySQL
